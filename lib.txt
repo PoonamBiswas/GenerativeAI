@@ -1,0 +1,10 @@
+langchain
+langchain_openai 
+langchain_groq 
+langchain_community 
+faiss-cpu 
+llama-index 
+huggingface_hub 
+ollama 
+chromadb 
+streamlit
